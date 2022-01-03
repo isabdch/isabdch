@@ -18,6 +18,11 @@
   <a href="https://www.linkedin.com/in/isabelle-brand%C3%A3o-chagas-5645551a8/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="mailto:belabchagas@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.facebook.com/isabdch" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a> 
+  <a href="https://open.spotify.com/user/isabdch?si=7592cf16929b4e3d"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
 </div>  
   
 ![Snake animation](https://github.com/isabdch/isabdch/blob/output/github-contribution-grid-snake.svg)
+
+ # 🎧 What I am listening to while coding
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=lu07y4x1m46be4n09f5m9dra1&cover_image=true&theme=default)](https://github.com/isabdch/spotify-github-profile)
