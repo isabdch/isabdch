@@ -23,6 +23,3 @@
   
 ![Snake animation](https://github.com/isabdch/isabdch/blob/output/github-contribution-grid-snake.svg)
 
-# 🎧 What I am listening to while coding
-
-[[https://spotify-github-profile.vercel.app/api/view.svg?uid=isabdch&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=isabdch&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true)]]
