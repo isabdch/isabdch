@@ -24,4 +24,4 @@
 ![Snake animation](https://github.com/isabdch/isabdch/blob/output/github-contribution-grid-snake.svg)
   
  ## What I am listening to while coding 🎧 
-  [<img src="https://spotify-orcin.vercel.app/api/spotify" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/isabdch)
+  [![Spotify](https://isabdch.vercel.app/api/spotify)](https://open.spotify.com/user/isabdch)
