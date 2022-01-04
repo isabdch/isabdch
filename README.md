@@ -25,5 +25,5 @@
   
 
    ## 🎧 While coding listening to:
-   [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=isabdch&cover_image=true&theme=novatorem&bar_color=ab50dc&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=isabdch&redirect=true)
+   [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=isabdch&cover_image=true&theme=novatorem&bar_color=c43eea&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=isabdch&redirect=true)
 
