@@ -1,4 +1,4 @@
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Nova+Flat&color=%23A323D4&size=35&center=true&width=390&lines=Welcome+to+my+GitHub+profile+%E2%9C%A8)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Nova+Flat&color=%23A323D4&size=23&width=390&lines=Welcome+to+my+GitHub+profile+%E2%9C%A8)](https://git.io/typing-svg)
 
 <div align="center"> 
   <a href="https://github.com/isabdch">
