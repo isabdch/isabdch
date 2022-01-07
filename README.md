@@ -7,7 +7,7 @@
   - 🎵 I'm listening to music all the time;
   - 🖥️ I'm a web developer;
   - ⌨️ And I code all day!  
-  <img align="right" src="https://media.giphy.com/media/b7E7DmwIgEIgccao2N/giphy.gif"><br>
+  <img align="right" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"><br>
 
 <div align="center"> 
   <a href="https://github.com/isabdch">
