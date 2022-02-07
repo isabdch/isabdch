@@ -5,7 +5,7 @@
   - ✎ I also love drawing on digital;
   - 💜 My favorite color is purple;
   - 🎵 I'm listening to music all the time;
-  - 🖥️ I'm a web developer;
+  - 🖥️ I'm studying to be a full-stack developer;
   - ⌨️ And I code all day!  
   <img align="right" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"><br>
 
