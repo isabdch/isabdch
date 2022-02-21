@@ -3,9 +3,8 @@
 ## <img src="https://media.giphy.com/media/3Ii2SW00oLZ8k/giphy.gif" height="30px"> Some facts about me  
   - 📕 I love reading fantasy books;
   - ✎ I also love drawing on digital;
-  - 💜 My favorite color is purple;
   - 🎵 I'm listening to music all the time;
-  - 🖥️ I'm studying to be a full-stack developer;
+  - 🖥️ I'm studying to be a front-end developer;
   - ⌨️ And I code all day!  
   <img align="right" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"><br>
 
