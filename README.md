@@ -1,9 +1,9 @@
 ## <img src="https://media.giphy.com/media/3Ii2SW00oLZ8k/giphy.gif" height="30px"> About me  
-   📕 I love reading fantasy books;
-   ✎ I also love drawing on digital;
-   🎵 I'm listening to music all the time;
-   🖥️ I'm studying to be a front-end developer;
-   ⌨️ And I code all day!  
+   - 📕 I love reading fantasy books;
+   - ✎ I also love drawing on digital;
+   - 🎵 I'm listening to music all the time;
+   - 🖥️ I'm studying to be a front-end developer;
+   - ⌨️ And I code all day!  
   
 <div align="center"> 
   <a href="https://github.com/isabdch">
