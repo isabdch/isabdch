@@ -1,4 +1,4 @@
-## <img src="https://media.giphy.com/media/3Ii2SW00oLZ8k/giphy.gif" height="30px"> Some facts about me  
+## <img src="https://media.giphy.com/media/3Ii2SW00oLZ8k/giphy.gif" height="30px"> About me  
   - 📕 I love reading fantasy books;
   - ✎ I also love drawing on digital;
   - 🎵 I'm listening to music all the time;
