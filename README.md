@@ -4,8 +4,7 @@
   - 🎵 I'm listening to music all the time;
   - 🖥️ I'm studying to be a front-end developer;
   - ⌨️ And I code all day!  
-  <img align="right" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"><br>
-
+  - 
 <div align="center"> 
   <a href="https://github.com/isabdch">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=isabdch&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
