@@ -1,5 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=%238A2BE2&size=26&center=true&vCenter=true&width=1000&height=30&lines=%3CWelcome+to+my+GitHub+profile!%2F%3E)](https://git.io/typing-svg)
-
 ## <img src="https://media.giphy.com/media/3Ii2SW00oLZ8k/giphy.gif" height="30px"> Some facts about me  
   - 📕 I love reading fantasy books;
   - ✎ I also love drawing on digital;
