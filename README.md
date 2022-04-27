@@ -4,13 +4,15 @@
    Hi, I'm Isabelle, a front-end developer. I strive to create visually pleasing and practical interfaces that are both useful and easy to use. I enjoy                    experimenting with new ways to stimulate creativity and productivity. When I'm not working or studying, I enjoy reading books, drawing, and creating projects to        practice my skills and learn new things.
 </div>
 
- ### 
+ <br />
   
 <div align="center"> 
   <a href="https://github.com/isabdch">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=isabdch&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabdch&layout=compact&langs_count=7&theme=jolly"/>
 </div>
+   
+   <br />
  
 <div align="center"> 
   <h1><img src="https://media.giphy.com/media/UvPvsX9oMlMWs/giphy.gif" height="30px"> Languages and tools</h1>
@@ -26,7 +28,7 @@
   </div>
 </div>
   
- ### 
+ <br />
   
 <div align="center">
 <h1><img src="https://media.giphy.com/media/l0IyjS5FXeMOtVMyY/giphy.gif" height="30px"> Contact me</h1>
