@@ -1,7 +1,7 @@
 
 <div align="center">
    <h1><img src="https://media.giphy.com/media/3Ii2SW00oLZ8k/giphy.gif" height="30px"> About me</h1>
-   Hi, I'm Isabelle, a front-end developer. I strive to create visually pleasing and practical interfaces that are both useful and easy to use. I enjoy                    experimenting with new ways to stimulate creativity and productivity. When I'm not working or studying, I enjoy reading books, drawing, and creating projects to        practice my skills and learn new things.
+   Hi! I'm Isabelle, a front-end developer. I strive to create visually pleasing and practical interfaces that are both useful and easy to use. I enjoy                    experimenting with new ways to stimulate creativity and productivity. When I'm not working or studying, I enjoy reading books, drawing, and creating projects to        practice my skills and learn new things.
    
    📖 Currently studying GraphQL and unit testing with Jest.
 </div>
