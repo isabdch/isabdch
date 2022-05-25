@@ -46,7 +46,6 @@
 </div>
   
  ### 
-  
 
 ![Snake animation](https://github.com/isabdch/isabdch/blob/output/github-contribution-grid-snake.svg)
   
