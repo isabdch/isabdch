@@ -6,7 +6,7 @@
    📖 Currently studying React Native and unit testing with Jest.
 </div>
 
- <br />
+<br />
   
 <div align="center"> 
   <a href="https://github.com/isabdch">
@@ -14,7 +14,7 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabdch&layout=compact&langs_count=7&theme=jolly"/>
 </div>
    
-   <br />
+<br />
  
 <div align="center"> 
   <h1><img src="https://media.giphy.com/media/UvPvsX9oMlMWs/giphy.gif" height="30px"> Languages and tools</h1>
@@ -33,7 +33,7 @@
   </div>
 </div>
   
- <br />
+<br />
   
 <div align="center">
 <h1><img src="https://media.giphy.com/media/l0IyjS5FXeMOtVMyY/giphy.gif" height="30px"> Contact me</h1>
