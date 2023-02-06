@@ -51,8 +51,8 @@
  ### 
 
 ![Snake animation](https://github.com/isabdch/isabdch/blob/output/github-contribution-grid-snake.svg)
-![Snake animation](https://github.com/isabdch/isabdch/blob/output/dracula.svg)
-<img src="https://github.com/isabdch/isabdch/blob/output/dracula.svg" width="100%">
+<!-- ![Snake animation](https://github.com/isabdch/isabdch/blob/output/dracula.svg) -->
+<!-- <img src="https://github.com/isabdch/isabdch/blob/output/dracula.svg" width="100%"> -->
   
 <div align="center">
 <!--    ## <img src="https://media.giphy.com/media/YjHOvLaZ02jI8C3yvH/giphy.gif" height="30px"> While coding I'm listening to:
