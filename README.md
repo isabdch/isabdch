@@ -47,14 +47,8 @@
 </div>
   
  ### 
-
-![Snake animation](https://github.com/isabdch/isabdch/blob/output/github-contribution-grid-snake.svg)
-<!-- ![Snake animation](https://github.com/isabdch/isabdch/blob/output/dracula.svg) -->
-<!-- <img src="https://github.com/isabdch/isabdch/blob/output/dracula.svg" width="100%"> -->
   
 <div align="center">
-<!--    ## <img src="https://media.giphy.com/media/YjHOvLaZ02jI8C3yvH/giphy.gif" height="30px"> While coding I'm listening to:
-   [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=isabdch&cover_image=true&theme=novatorem&bar_color=8a2be2&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=isabdch&redirect=true) -->
 
   ![](https://komarev.com/ghpvc/?username=isabdch&color=blueviolet&style=flat-square)
    </div>
