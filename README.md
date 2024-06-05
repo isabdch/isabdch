@@ -1,17 +1,19 @@
 
 <div align="center">
    <h1><img src="https://media.giphy.com/media/3Ii2SW00oLZ8k/giphy.gif" height="30px"> About me</h1>
-   Hi! I'm Isabelle, a front-end developer. I strive to create visually pleasing and practical interfaces that are both useful and easy to use. I enjoy                    experimenting with new ways to stimulate creativity and productivity. When I'm not working or studying, I enjoy reading books, drawing, and creating projects to        practice my skills and learn new things.
+   Hi! I'm Isabelle, a front-end developer. I strive to create visually pleasing and practical interfaces that are both useful and easy to use. I enjoy experimenting with new ways to stimulate creativity and productivity. When I'm not working or studying, I enjoy reading books, drawing, and creating projects to practice my skills and learn new things.
 </div>
 
 <br />
-  
+<br />
+
 <div align="center"> 
   <a href="https://github.com/isabdch">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=isabdch&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=isabdch&show_icons=true&theme=jolly&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabdch&layout=compact&langs_count=7&theme=jolly"/>
 </div>
    
+<br />
 <br />
  
 <div align="center"> 
@@ -30,14 +32,15 @@
 </div>
   
 <br />
+<br />
   
 <div align="center">
 <h1><img src="https://media.giphy.com/media/l0IyjS5FXeMOtVMyY/giphy.gif" height="30px"> Contact me</h1>
 <div>
   <a href="https://www.linkedin.com/in/isabdch/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
   <a href="mailto:belabchagas@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <!-- <a href="https://instagram.com/isabdch" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> !-->
-  <!-- <a href="https://open.spotify.com/user/isabdch?si=7592cf16929b4e3d"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a> !-->
+  <!-- <a href="https://instagram.com/isabdch" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://open.spotify.com/user/isabdch?si=7592cf16929b4e3d"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a> -->
 </div>  
 </div>
   
@@ -46,4 +49,4 @@
 <div align="center">
 
   ![](https://komarev.com/ghpvc/?username=isabdch&color=blueviolet&style=flat-square)
-   </div>
+</div>
