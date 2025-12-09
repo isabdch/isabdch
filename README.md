@@ -13,8 +13,8 @@
 
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isabdch&layout=compact&theme=omni)](https://github.com/isabdch/github-readme-stats)
-![Isabelle's GitHub stats](https://github-readme-stats.vercel.app/api?username=isabdch&show_icons=true&theme=omni)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isabdch&layout=compact&theme=omni)](https://github.com/isabdch/github-readme-stats)
+![Isabelle's GitHub stats](https://github-readme-stats.vercel.app/api?username=isabdch&show_icons=true&theme=omni) -->
    
 <br />
  
