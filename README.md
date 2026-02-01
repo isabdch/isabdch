@@ -10,9 +10,6 @@
     <li>🌱 Currently learning more about Node.js, Express, PostgreSQL, and NestJS.</li>
   </ul>
 </div>
-
-<br />
-
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isabdch&layout=compact&theme=omni)](https://github.com/isabdch/github-readme-stats)
 ![Isabelle's GitHub stats](https://github-readme-stats.vercel.app/api?username=isabdch&show_icons=true&theme=omni) -->
    
