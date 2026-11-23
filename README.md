@@ -1,15 +1,8 @@
 <h1><img src="https://media.giphy.com/media/3Ii2SW00oLZ8k/giphy.gif" height="30px"> About me</h1>
 
 <div style="display: inline-block; width: 58%; vertical-align: top;">
-  <p>Hi! I'm Isabelle, a software engineer passionate about building intuitive and high-performance interfaces. I enjoy learning new technologies, solving real problems through code, and working on fullstack projects to expand my knowledge.</p>
+  <p>Hi! I'm Isabelle, a fullstack software engineer. I enjoy learning new technologies, solving real problems through code, and working on projects to expand my knowledge.</p>
 
-  <ul>
-    <li>🤔 Exploring new technologies and building software solutions.</li>
-    <li>🎓 Studying Software Engineering and deepening my understanding of software architecture through personal fullstack projects.</li>
-    <li>💼 Working as a Software Engineer @ Fullstack Labs (React, React Native, TypeScript, Node.js, AWS).</li>
-    <li>🌱 Currently learning more about Node.js, Express, PostgreSQL, and NestJS.</li>
-  </ul>
-</div>
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isabdch&layout=compact&theme=omni)](https://github.com/isabdch/github-readme-stats)
 ![Isabelle's GitHub stats](https://github-readme-stats.vercel.app/api?username=isabdch&show_icons=true&theme=omni) -->
    
