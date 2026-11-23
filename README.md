@@ -2,8 +2,6 @@
 
 <div style="display: inline-block; width: 58%; vertical-align: top;">
   <p>Hi! I'm Isabelle, a fullstack software engineer. I enjoy learning new technologies, solving real problems through code, and working on projects to expand my knowledge.</p>
-
-<br />
  
 <div> 
   <h1>Languages and tools</h1>
